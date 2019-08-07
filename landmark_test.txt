@@ -1,0 +1,25 @@
+2019-07-24 18:04:16.455842, moudel name:onet_epoch.pt, 1117 pics mean error is 0.20221340816002703
+2019-07-24 18:18:16.983328，moudel name:onet_v9_epoch_50.pt, 1144 pics mean error is 0.22561604427004672
+2019-07-24 19:04:27.712582, moudel_name:onet_epoch_81.pt, 1150 pics mean error is 0.1924863227699514
+
+2019-07-24 21:01:11.882556, moudel_name:onet_epoch_81.pt, 1000 pics mean error is 0.08188434671527808
+2019-07-24 21:04:19.093501, moudel_name:onet_v9_epoch_50.pt, 1000 pics mean error is 0.10783099521425323
+
+2019-07-24 21:17:10.572174, moudel_name:onet_epoch_50.pt, 1000 pics mean error is 0.2048059859355919
+2019-07-24 21:17:17.044455, moudel_name:onet_epoch.pt, 1000 pics mean error is 0.19399278178718884
+
+2019-07-24 21:48:25.959435, moudel_name:onet_epoch.pt, 1144 pics mean error is 0.11498905619800541
+2019-07-24 22:17:36.101878, moudel_name:onet_epoch.pt, 1000 pics mean error is 0.19399278178718884
+2019-07-24 22:17:42.461816, moudel_name:onet_epoch_50.pt, 1000 pics mean error is 0.2048059859355919
+
+2019-07-24 22:32:54.756013, moudel_name:onet_v9_epoch_50.pt, 1144 pics mean error is 0.22561604427004672
+2019-07-24 22:35:30.847426, moudel_name:onet_epoch_81.pt, 1150 pics mean error is 0.1924863227699514
+# 精准bbox情况
+2019-07-24 22:35:41.264049, moudel_name:onet_v9_epoch_50.pt, 1000 pics mean error is 0.10783099521425323
+2019-07-24 22:35:51.673029, moudel_name:onet_epoch_81.pt, 1000 pics mean error is 0.08188434671527808
+
+2019-07-24 22:41:02.491628, moudel_name:onet_epoch.pt, 1144 pics mean error is 0.11498905619800541
+2019-07-24 22:43:11.025891, moudel_name:onet_epoch_50.pt, 1137 pics mean error is 0.40387707295782316
+2019-07-24 22:43:18.191618, moudel_name:onet_epoch.pt, 1000 pics mean error is 0.19399278178718884
+2019-07-24 22:43:25.375800, moudel_name:onet_epoch_50.pt, 1000 pics mean error is 0.2048059859355919
+2019-08-07 16:22:12.778632, moudel_name:onet_epoch.pt, 1144 pics mean error is 0.11498905619800541
