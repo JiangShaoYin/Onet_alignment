@@ -177,17 +177,18 @@ class LandmarkTestor(object):
 
 testor = LandmarkTestor("./data_set/face_landmark/1200.txt", "./test_result/")
 
-
 # v4
-testor.test_face_alignment("onet_epoch",savePic = False)  # 原数据集
-testor.test_face_alignment("onet_epoch_50",savePic = False) # bbox偏移50%情况下的模型
+# testor.test_face_alignment("onet_epoch",savePic = False)  # 原数据集
+# testor.test_face_alignment("onet_epoch_99",savePic = False)  # 原始数据集，自行训练99轮的检测结果
+# testor.test_face_alignment("onet_epoch_50",savePic = False) # bbox偏移50%情况下的模型
 
-testor.test_Onet_without_PRnet("./data_set/face_landmark/testList.txt", "Onet_result/jiang_onet_result_v4/", "onet_epoch", xxyy = True,savePic = False)  # # 原数据集
-testor.test_Onet_without_PRnet("./data_set/face_landmark/testList.txt", "Onet_result/jiang_onet_result_v4/", "onet_epoch_50", xxyy = True,savePic = False)  # bbox偏移50%情况下的模型
+
+# testor.test_Onet_without_PRnet("./data_set/face_landmark/testList.txt", "Onet_result/jiang_onet_result_v4/", "onet_epoch", xxyy = True,savePic = True)  # # 原数据集
+# testor.test_Onet_without_PRnet("./data_set/face_landmark/testList.txt", "Onet_result/jiang_onet_result_v4/", "onet_epoch_50", xxyy = True,savePic = False)  # bbox偏移50%情况下的模型
 
 # v9
 # testor.test_face_alignment("onet_v9_epoch_50",savePic = False)  # V9 bbox偏移50%情况下的模型
-# testor.test_face_alignment("onet_epoch_81", savePic = False)      # 原数据集
+testor.test_face_alignment("onet_epoch_81", savePic = True)      # 原数据集
 # testor.test_Onet_without_PRnet("./data_set/face_landmark/testList.txt", "Onet_result/jiang_onet_result_v4/", "onet_v9_epoch_50", xxyy = True,savePic = False)  # V9 bbox偏移50%情况下的模型
 # testor.test_Onet_without_PRnet("./data_set/face_landmark/testList.txt", "Onet_result/jiang_onet_result_v4/", "onet_epoch_81", xxyy = True,savePic = False)  # 原数据集
 

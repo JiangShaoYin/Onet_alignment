@@ -22,4 +22,17 @@
 2019-07-24 22:43:11.025891, moudel_name:onet_epoch_50.pt, 1137 pics mean error is 0.40387707295782316
 2019-07-24 22:43:18.191618, moudel_name:onet_epoch.pt, 1000 pics mean error is 0.19399278178718884
 2019-07-24 22:43:25.375800, moudel_name:onet_epoch_50.pt, 1000 pics mean error is 0.2048059859355919
+
 2019-08-07 16:22:12.778632, moudel_name:onet_epoch.pt, 1144 pics mean error is 0.11498905619800541
+2019-08-07 17:39:19.856155, moudel_name:onet_epoch.pt, 1144 pics mean error is 0.11498905619800541
+2019-08-07 17:41:25.730957, moudel_name:onet_epoch_50.pt, 1137 pics mean error is 0.40387707295782316
+2019-08-07 17:41:33.244991, moudel_name:onet_epoch.pt, 1000 pics mean error is 0.19399278178718884
+2019-08-07 17:41:39.885135, moudel_name:onet_epoch_50.pt, 1000 pics mean error is 0.2048059859355919
+
+
+# 送入更精准的检测框后的预测值
+2019-08-07 17:48:54.960175, moudel_name:onet_epoch.pt, 940 pics mean error is 0.10917947976599911
+2019-08-07 17:51:09.643963, moudel_name:onet_epoch.pt, 1000 pics mean error is 0.19399278178718884
+2019-08-07 17:51:40.369393, moudel_name:onet_epoch_50.pt, 1000 pics mean error is 0.2048059859355919
+# 原始网络，99层
+2019-08-07 18:00:43.980981, moudel_name:onet_epoch_99.pt, 1133 pics mean error is 0.17465534593623824
